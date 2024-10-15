@@ -1,3 +1,3 @@
 # testgit
 
-Author - Chetan Sharma
+Author - Chetan Sharma (Student)
